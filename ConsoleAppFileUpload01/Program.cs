@@ -13,6 +13,7 @@ namespace ConsoleAppFileUpload01
     {
         static void Main(string[] args)
         {
+            //making changes on 5Aug2020
             //21Jan2020 p4
 
             // string sqlconn = System.Configuration.ConfigurationManager.ConnectionStrings["SqlCom"].ConnectionString;
